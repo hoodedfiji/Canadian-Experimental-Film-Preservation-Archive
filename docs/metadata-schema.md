@@ -5,8 +5,8 @@ CEFPA uses Dublin Core as the base metadata framework with additional preservati
 ## Core Fields
 
 - Title
-- Creator
-- Date of Creation
+- Director
+- Release Date
 - Format
 - Duration
 - Description
