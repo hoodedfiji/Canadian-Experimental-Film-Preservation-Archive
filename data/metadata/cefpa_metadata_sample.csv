@@ -1,10 +1,15 @@
-Identifier,Title,Director,Year,Format,Duration,Description,Keywords,Language,Country,Rights,Collection,PreservationStatus,FileFormat,Resolution,StorageLocation,PreservationNotes
-CEFPA-001,Echoes of Concrete,Maya Desai,2023,Digital Video,7 min,"Urban sound collage paired with abstract architectural imagery exploring memory and displacement in Toronto spaces","urban memory; sound art; experimental film",English,Canada,Creator retained,Student Experimental Cinema,Stable Digital Master,MOV,4K,Archive Drive A,Original creator master preserved
-CEFPA-002,Static Bloom,Alex Nguyen,2022,Hybrid Digital/Analog,5 min,"Layered analog glitch projection recorded digitally examining technological decay and visual noise","glitch art; media decay; abstraction",English,Canada,Creator retained,Independent Canadian Media Art,Digitized,MP4,1080p,Archive Drive A,Digitized from analog source
-CEFPA-003,Northern Pulse,Sara Ibrahim,2024,Digital Video,9 min,"Experimental montage reflecting environmental rhythms and seasonal cycles in Northern Canada","landscape; environmental film; montage",English,Canada,Educational access,Festival & Underground Shorts,Stable Digital Master,MOV,4K,Archive Drive B,Preservation copy created
-CEFPA-004,Soft Signals,Daniel Moreau,2021,Digital Video,6 min,"Exploration of signal interference through layered broadcast fragments and manipulated audio textures","broadcast art; signal distortion",French/English,Canada,Creator retained,Digital Hybrid & Mixed Media Works,Stable Digital Master,MP4,1080p,Archive Drive B,No preservation issues noted
-CEFPA-005,Afterimage Drift,Lena Park,2020,Digital Video,8 min,"Visual meditation using slowed motion urban footage to explore memory persistence","slow cinema; perception; visual memory",English,Canada,Educational access,Independent Canadian Media Art,Needs Migration,MP4,720p,Archive Drive A,Recommend format upgrade
-CEFPA-006,Glass Frequency,Noah Patel,2023,Video Installation,10 min,"Installation-based experimental piece examining reflection, refraction, and sonic resonance","installation art; sound experiment",English,Canada,Creator retained,Digital Hybrid & Mixed Media Works,Digitized,MOV,1080p,Archive Drive C,Digitized from gallery documentation
-CEFPA-007,Fragment Loop,Avery Chen,2022,Digital Video,4 min,"Looped structural film composed of fragmented motion studies","structural film; loop; motion study",English,Canada,Creator retained,Student Experimental Cinema,Stable Digital Master,MOV,4K,Archive Drive A,Preservation copy verified
-CEFPA-008,Signal Garden,Amir Hassan,2021,Hybrid Digital/Analog,6 min,"Analog video textures blended with digital compositing exploring artificial ecosystems","video synthesis; hybrid media",English,Canada,Educational access,Festival & Underground Shorts,Digitized,MP4,1080p,Archive Drive B,Stable preservation state
-CEFPA-009,Silent Transit,Emma Roy,2024,Digital Video,7 min,"Observational experimental film documenting commuter movement through rhythmic editing","urban rhythm; observational cinema",English/French,Canada,Creator retained,Independent Canadian Media Art,Stable Digital Master,MOV,4K,Archive Drive C,No issues detected
+Identifier,Title,Director,Year,Format,Notes
+CEFPA-001,The Top of His Head,Peter Mettler,1989,Film,"Toronto independent feature; Queen Street cinema context"
+CEFPA-002,Crime Wave,John Paizs,1985,Film,"Toronto underground DIY feature"
+CEFPA-003,Scissere,Atom Egoyan,1982,Film,"Early Toronto experimental short"
+CEFPA-004,Black Zero,Philip Hoffman,1979,Film,"Toronto avant-garde documentary tradition"
+CEFPA-005,So Is This,Michael Snow,1982,Film,"Toronto structural/conceptual film"
+CEFPA-006,Wavelength,Michael Snow,1967,Film,"Canadian structural film landmark"
+CEFPA-007,"La région centrale",Michael Snow,1971,Film,"Experimental landscape cinema"
+CEFPA-008,"Very Nice, Very Nice",Arthur Lipsett,1961,Film,"Found-footage collage classic"
+CEFPA-009,21-87,Arthur Lipsett,1963,Film,"Sound-image experimental collage"
+CEFPA-010,The Hart of London,Jack Chambers,1970,Film,"Canadian avant-garde feature collage"
+CEFPA-011,Reason Over Passion,Joyce Wieland,1969,Film,"Political experimental travel diary"
+CEFPA-012,Neighbours,Norman McLaren,1952,Animation,"NFB experimental animation classic"
+CEFPA-013,"Pas de deux",Norman McLaren,1968,Animation,"Dance/motion study film"
+CEFPA-014,Corpus Callosum,Michael Snow,2002,Video,"Digital-era experimental feature"
