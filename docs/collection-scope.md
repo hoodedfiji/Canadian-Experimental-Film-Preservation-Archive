@@ -12,4 +12,4 @@ The archive includes:
 - Indigenous cinema
 - contemporary experimental works
 
-The collection is curated for educational purposes and continues to expand.
+The collection is curated for educational purposes and continues to expand
