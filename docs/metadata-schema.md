@@ -1,31 +1,13 @@
-# Metadata Schema
+CEFPA uses a simplified metadata structure inspired by Dublin Core.
 
-CEFPA uses Dublin Core as the base metadata framework with additional preservation fields tailored for audiovisual materials.
+Each catalog record includes:
 
-## Core Fields
+- Identifier — unique archive ID number
+- Title — film title
+- Creator — director or filmmaker
+- Year — year of release
+- Format — film, video, or animation
+- Notes — short description or historical context
 
-- Title
-- Director
-- Release Date
-- Format
-- Duration
-- Description
-- Subject Keywords
-- Language
-- Country
-- Rights Statement
-- Collection
-- Identifier
-
-## Preservation Fields
-
-- Source of Acquisition
-- File Format
-- Resolution
-- Storage Location
-- Preservation Status
-- Digitization Status
-- Condition Assessment
-- Preservation Notes
-
-All entries must include core fields. Preservation fields are strongly recommended.
+This schema is intentionally simple to support learning and experimentation.
+Additional preservation metadata may be added in future versions.
