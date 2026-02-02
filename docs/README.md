@@ -1,6 +1,6 @@
 # Canadian Experimental Film Preservation Archive (CEFPA)
 
-The Canadian Experimental Film Preservation Archive (CEFPA) is a digital preservation and cataloging project focused on Canadian experimental and independent moving image works, with a special emphasis on the Toronto New Wave and Queen Street cinema scene.
+The Canadian Experimental Film Preservation Archive (CEFPA) is a digital preservation and cataloging project focused on Canadian experimental and independent moving image works, with a special emphasis on the Toronto New Wave.
 
 This archive explores archival metadata standards, audiovisual cataloging, and preservation workflows using Omeka. The project simulates institutional archival practices used in libraries, museums, and cultural organizations.
 
