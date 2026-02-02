@@ -1,13 +1,12 @@
 # Preservation Policy
 
-CEFPA prioritizes the long-term accessibility and integrity of digital moving image works.
+CEFPA is an educational archive and does not store film files. It catalogs metadata only.
 
-## Principles
+The preservation goal of this project is to:
 
-- Maintain original file integrity whenever possible
-- Record preservation metadata alongside descriptive metadata
-- Avoid destructive editing of master files
-- Document all preservation actions
-- Track digitization and format migration status
+- document Canadian film history
+- practice archival cataloging workflows
+- simulate preservation thinking
+- explore metadata standards
 
-This archive simulates institutional preservation workflows and is designed for educational and portfolio purposes.
+This archive functions as a research and learning tool, not a physical film repository.
